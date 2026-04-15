@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "^6.7",
+        "php-imap/php-imap": "^2.0"
+    }
+}
