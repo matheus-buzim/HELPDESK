@@ -15,6 +15,6 @@ Com base nesse cenário, o projeto tem como objetivo criar um sistema de chamado
 🛠 Tecnologias
 - PHP
 - XAMPP (MySQL) como banco de dados
-- 
+  
 📦 Dependências
 - As bibliotecas php-imap e PHPMailer foram instaladas via Composer para possibilitar a leitura e envio de e-mails dentro da aplicação.
