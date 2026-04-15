@@ -7,16 +7,14 @@ Na época, os chamados eram realizados via WhatsApp e e-mail, sem qualquer tipo 
 Com base nesse cenário, o projeto tem como objetivo criar um sistema de chamados integrado ao e-mail, permitindo organizar, registrar e acompanhar as solicitações de forma centralizada.
 
 🎯 Objetivos
-Centralizar os chamados recebidos por e-mail
-Criar histórico de atendimentos
-Permitir análise de dados (causas recorrentes, SLA, volume)
-Melhorar a organização e rastreabilidade das demandas
-🛠 Tecnologias
-PHP
-Integração com e-mail (IMAP/SMTP)
-Composer
-php-imap
-PHPMailer
-📦 Dependências
+- Centralizar os chamados recebidos por e-mail
+- Criar histórico de atendimentos
+- Permitir análise de dados (causas recorrentes, SLA, volume)
+- Melhorar a organização e rastreabilidade das demandas
 
-As bibliotecas php-imap e PHPMailer foram instaladas via Composer para possibilitar a leitura e envio de e-mails dentro da aplicação.
+🛠 Tecnologias
+- PHP
+- XAMPP (MySQL) como banco de dados
+- 
+📦 Dependências
+- As bibliotecas php-imap e PHPMailer foram instaladas via Composer para possibilitar a leitura e envio de e-mails dentro da aplicação.
